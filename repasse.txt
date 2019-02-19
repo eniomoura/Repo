@@ -3,4 +3,8 @@ PRIMEIRO
 SEGUNDO
 subscribe to pewdiepie
 dont laugh, dont lose
+<<<<<<< .merge_file_a10060
 O jogo
+=======
+blablabla
+>>>>>>> .merge_file_a08984
